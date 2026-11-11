@@ -1,8 +1,8 @@
 {
-  "versionCode": 18,
-  "versionName": "0.2.18",
-  "apkUrl": "https://github.com/juanjorgebm/ubicacr-descargas/releases/download/tracker-18/ubicacr-tracker-0.2.18.apk",
-  "publishedAt": "2026-11-11T13:48:05Z",
-  "notes": "Tracker: hora correcta aunque el reloj del equipo esté mal",
+  "versionCode": 19,
+  "versionName": "0.2.19",
+  "apkUrl": "https://github.com/juanjorgebm/ubicacr-descargas/releases/download/tracker-19/ubicacr-tracker-0.2.19.apk",
+  "publishedAt": "2026-11-11T14:14:59Z",
+  "notes": "Tracker: hora exacta para posiciones tomadas al encender sin internet",
   "minSdk": 22
 }
