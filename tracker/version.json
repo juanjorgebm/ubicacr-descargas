@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "0.2.7",
-  "apkUrl": "https://github.com/juanjorgebm/ubicacr-descargas/releases/download/tracker-7/ubicacr-tracker-0.2.7.apk",
-  "publishedAt": "2026-11-10T17:35:58Z",
-  "notes": "Tracker: revisar la firma sin depender del formato de salida de apksigner",
+  "versionCode": 8,
+  "versionName": "0.2.8",
+  "apkUrl": "https://github.com/juanjorgebm/ubicacr-descargas/releases/download/tracker-8/ubicacr-tracker-0.2.8.apk",
+  "publishedAt": "2026-11-11T11:21:17Z",
+  "notes": "Tracker: envío al girar, tareas con Waze y Google Maps, widgets y apertura al encender",
   "minSdk": 22
 }
