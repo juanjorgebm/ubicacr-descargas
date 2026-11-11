@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "0.2.15",
-  "apkUrl": "https://github.com/juanjorgebm/ubicacr-descargas/releases/download/tracker-15/ubicacr-tracker-0.2.15.apk",
-  "publishedAt": "2026-11-11T11:42:58Z",
-  "notes": "Tracker: botón para marcar tareas como completadas, con firma",
+  "versionCode": 16,
+  "versionName": "0.2.16",
+  "apkUrl": "https://github.com/juanjorgebm/ubicacr-descargas/releases/download/tracker-16/ubicacr-tracker-0.2.16.apk",
+  "publishedAt": "2026-11-11T12:05:11Z",
+  "notes": "Tracker: al volver la red o cambiar de Wi-Fi envía lo pendiente",
   "minSdk": 22
 }
