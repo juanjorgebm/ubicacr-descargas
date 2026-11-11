@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "0.2.14",
-  "apkUrl": "https://github.com/juanjorgebm/ubicacr-descargas/releases/download/tracker-14/ubicacr-tracker-0.2.14.apk",
-  "publishedAt": "2026-11-11T11:40:57Z",
-  "notes": "Tracker: chat y ajustes abren sin el teclado",
+  "versionCode": 15,
+  "versionName": "0.2.15",
+  "apkUrl": "https://github.com/juanjorgebm/ubicacr-descargas/releases/download/tracker-15/ubicacr-tracker-0.2.15.apk",
+  "publishedAt": "2026-11-11T11:42:58Z",
+  "notes": "Tracker: botón para marcar tareas como completadas, con firma",
   "minSdk": 22
 }
