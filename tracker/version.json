@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "0.2.9",
-  "apkUrl": "https://github.com/juanjorgebm/ubicacr-descargas/releases/download/tracker-9/ubicacr-tracker-0.2.9.apk",
-  "publishedAt": "2026-11-11T11:24:49Z",
-  "notes": "Tracker: tildes visibles, servidor fijo y chat ajustado a la respuesta real",
+  "versionCode": 10,
+  "versionName": "0.2.10",
+  "apkUrl": "https://github.com/juanjorgebm/ubicacr-descargas/releases/download/tracker-10/ubicacr-tracker-0.2.10.apk",
+  "publishedAt": "2026-11-11T11:26:54Z",
+  "notes": "Tracker: ACC y motor por separado, y frecuencias fijas",
   "minSdk": 22
 }
