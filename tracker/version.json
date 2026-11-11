@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "0.2.8",
-  "apkUrl": "https://github.com/juanjorgebm/ubicacr-descargas/releases/download/tracker-8/ubicacr-tracker-0.2.8.apk",
-  "publishedAt": "2026-11-11T11:21:17Z",
-  "notes": "Tracker: envío al girar, tareas con Waze y Google Maps, widgets y apertura al encender",
+  "versionCode": 9,
+  "versionName": "0.2.9",
+  "apkUrl": "https://github.com/juanjorgebm/ubicacr-descargas/releases/download/tracker-9/ubicacr-tracker-0.2.9.apk",
+  "publishedAt": "2026-11-11T11:24:49Z",
+  "notes": "Tracker: tildes visibles, servidor fijo y chat ajustado a la respuesta real",
   "minSdk": 22
 }
