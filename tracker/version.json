@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "0.2.17",
-  "apkUrl": "https://github.com/juanjorgebm/ubicacr-descargas/releases/download/tracker-17/ubicacr-tracker-0.2.17.apk",
-  "publishedAt": "2026-11-11T12:06:43Z",
-  "notes": "Tracker: detener el rastreo solo desde Ajustes, con contraseña",
+  "versionCode": 18,
+  "versionName": "0.2.18",
+  "apkUrl": "https://github.com/juanjorgebm/ubicacr-descargas/releases/download/tracker-18/ubicacr-tracker-0.2.18.apk",
+  "publishedAt": "2026-11-11T13:48:05Z",
+  "notes": "Tracker: hora correcta aunque el reloj del equipo esté mal",
   "minSdk": 22
 }
