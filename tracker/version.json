@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "0.2.13",
-  "apkUrl": "https://github.com/juanjorgebm/ubicacr-descargas/releases/download/tracker-13/ubicacr-tracker-0.2.13.apk",
-  "publishedAt": "2026-11-11T11:35:11Z",
-  "notes": "Tracker: letra propia con tildes y sin símbolos que la pantalla no muestra",
+  "versionCode": 14,
+  "versionName": "0.2.14",
+  "apkUrl": "https://github.com/juanjorgebm/ubicacr-descargas/releases/download/tracker-14/ubicacr-tracker-0.2.14.apk",
+  "publishedAt": "2026-11-11T11:40:57Z",
+  "notes": "Tracker: chat y ajustes abren sin el teclado",
   "minSdk": 22
 }
