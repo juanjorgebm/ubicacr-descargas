@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "0.2.22",
-  "apkUrl": "https://github.com/juanjorgebm/ubicacr-descargas/releases/download/tracker-22/ubicacr-tracker-0.2.22.apk",
-  "publishedAt": "2026-11-11T16:07:24Z",
-  "notes": "Tracker: prueba de Bluetooth Low Energy en Ajustes",
+  "versionCode": 24,
+  "versionName": "0.2.24",
+  "apkUrl": "https://github.com/juanjorgebm/ubicacr-descargas/releases/download/tracker-24/ubicacr-tracker-0.2.24.apk",
+  "publishedAt": "2026-11-11T18:08:29Z",
+  "notes": "Tracker: la prueba de Bluetooth intenta encenderlo si está apagado",
   "minSdk": 22
 }
