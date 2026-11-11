@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "0.2.10",
-  "apkUrl": "https://github.com/juanjorgebm/ubicacr-descargas/releases/download/tracker-10/ubicacr-tracker-0.2.10.apk",
-  "publishedAt": "2026-11-11T11:26:54Z",
-  "notes": "Tracker: ACC y motor por separado, y frecuencias fijas",
+  "versionCode": 12,
+  "versionName": "0.2.12",
+  "apkUrl": "https://github.com/juanjorgebm/ubicacr-descargas/releases/download/tracker-12/ubicacr-tracker-0.2.12.apk",
+  "publishedAt": "2026-11-11T11:30:01Z",
+  "notes": "Tracker: al encender retoma el rastreo en segundo plano, sin abrir la pantalla",
   "minSdk": 22
 }
