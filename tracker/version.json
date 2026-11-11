@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "0.2.16",
-  "apkUrl": "https://github.com/juanjorgebm/ubicacr-descargas/releases/download/tracker-16/ubicacr-tracker-0.2.16.apk",
-  "publishedAt": "2026-11-11T12:05:11Z",
-  "notes": "Tracker: al volver la red o cambiar de Wi-Fi envía lo pendiente",
+  "versionCode": 17,
+  "versionName": "0.2.17",
+  "apkUrl": "https://github.com/juanjorgebm/ubicacr-descargas/releases/download/tracker-17/ubicacr-tracker-0.2.17.apk",
+  "publishedAt": "2026-11-11T12:06:43Z",
+  "notes": "Tracker: detener el rastreo solo desde Ajustes, con contraseña",
   "minSdk": 22
 }
