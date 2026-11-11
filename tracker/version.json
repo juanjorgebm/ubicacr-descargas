@@ -1,8 +1,8 @@
 {
-  "versionCode": 19,
-  "versionName": "0.2.19",
-  "apkUrl": "https://github.com/juanjorgebm/ubicacr-descargas/releases/download/tracker-19/ubicacr-tracker-0.2.19.apk",
-  "publishedAt": "2026-11-11T14:14:59Z",
-  "notes": "Tracker: hora exacta para posiciones tomadas al encender sin internet",
+  "versionCode": 20,
+  "versionName": "0.2.20",
+  "apkUrl": "https://github.com/juanjorgebm/ubicacr-descargas/releases/download/tracker-20/ubicacr-tracker-0.2.20.apk",
+  "publishedAt": "2026-11-11T14:51:49Z",
+  "notes": "Tracker: sonido propio al llegar un mensaje, repetido hasta abrir el chat",
   "minSdk": 22
 }
