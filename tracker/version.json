@@ -1,8 +1,8 @@
 {
-  "versionCode": 26,
-  "versionName": "0.2.26",
-  "apkUrl": "https://github.com/juanjorgebm/ubicacr-descargas/releases/download/tracker-26/ubicacr-tracker-0.2.26.apk",
-  "publishedAt": "2026-11-11T18:55:28Z",
-  "notes": "Tracker: tareas completadas visibles 15 minutos en la app; en el widget se quitan de una vez",
+  "versionCode": 27,
+  "versionName": "0.2.27",
+  "apkUrl": "https://github.com/juanjorgebm/ubicacr-descargas/releases/download/tracker-27/ubicacr-tracker-0.2.27.apk",
+  "publishedAt": "2026-11-12T18:59:26Z",
+  "notes": "Tracker: puntito rojo y borde rojo en el widget de chat con mensajes nuevos",
   "minSdk": 22
 }
