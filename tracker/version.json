@@ -1,8 +1,8 @@
 {
-  "versionCode": 28,
-  "versionName": "0.2.28",
-  "apkUrl": "https://github.com/juanjorgebm/ubicacr-descargas/releases/download/tracker-28/ubicacr-tracker-0.2.28.apk",
-  "publishedAt": "2026-11-13T03:29:42Z",
-  "notes": "Tracker: el chat muestra los mensajes mas nuevos, no los de dias atras",
+  "versionCode": 29,
+  "versionName": "0.2.29",
+  "apkUrl": "https://github.com/juanjorgebm/ubicacr-descargas/releases/download/tracker-29/ubicacr-tracker-0.2.29.apk",
+  "publishedAt": "2026-11-13T03:40:50Z",
+  "notes": "Tracker: dejar presionado un mensaje del chat lo copia",
   "minSdk": 22
 }
