@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "0.2.27",
-  "apkUrl": "https://github.com/juanjorgebm/ubicacr-descargas/releases/download/tracker-27/ubicacr-tracker-0.2.27.apk",
-  "publishedAt": "2026-11-12T18:59:26Z",
-  "notes": "Tracker: puntito rojo y borde rojo en el widget de chat con mensajes nuevos",
+  "versionCode": 28,
+  "versionName": "0.2.28",
+  "apkUrl": "https://github.com/juanjorgebm/ubicacr-descargas/releases/download/tracker-28/ubicacr-tracker-0.2.28.apk",
+  "publishedAt": "2026-11-13T03:29:42Z",
+  "notes": "Tracker: el chat muestra los mensajes mas nuevos, no los de dias atras",
   "minSdk": 22
 }
