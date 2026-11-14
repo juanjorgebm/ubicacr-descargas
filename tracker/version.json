@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "0.2.29",
-  "apkUrl": "https://github.com/juanjorgebm/ubicacr-descargas/releases/download/tracker-29/ubicacr-tracker-0.2.29.apk",
-  "publishedAt": "2026-11-13T03:40:50Z",
-  "notes": "Tracker: dejar presionado un mensaje del chat lo copia",
+  "versionCode": 30,
+  "versionName": "0.2.30",
+  "apkUrl": "https://github.com/juanjorgebm/ubicacr-descargas/releases/download/tracker-30/ubicacr-tracker-0.2.30.apk",
+  "publishedAt": "2026-11-14T00:12:05Z",
+  "notes": "Tracker: la cola sin internet se guarda en un archivo y aguanta unas 70 h",
   "minSdk": 22
 }
